@@ -1,0 +1,6 @@
+streamlit>=1.36.0     # Web app framework
+scikit-learn>=1.5.0   # Machine learning algorithms
+pandas>=2.2.0         # Data manipulation
+numpy>=1.26.0         # Numerical computations
+joblib>=1.4.0         # Model serialization
+matplotlib>=3.8.0     # Plots (feature importance, charts)
